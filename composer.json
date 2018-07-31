@@ -1,0 +1,13 @@
+{
+    "name": "omni/php-templating",
+    "authors": [
+        {
+            "name": "Omniprezz",
+            "email": "geoffrey.frioli@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.8",
+        "twig/twig": "^2.5"
+    }
+}
